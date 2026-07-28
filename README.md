@@ -1,4 +1,9 @@
-it just opens up a gui u can say and it shows u when u press f8 the cords of that position hex color and the rgb thingy aswell as time idk why but its good really useful
-[click this to get the app](https://github.com/bufyh/position-of-ur-screen-color-and-at-what-time/releases/tag/colorpicker)
- its all python
+# position-of-ur-screen-color-and-at-what-time
+
+gui tool, press f8 and it shows u the coords of ur cursor, the hex color, rgb values, and the time
+
+[click here to get the app](https://github.com/bufyh/position-of-ur-screen-color-and-at-what-time/releases/tag/colorpicker)
+
+all python
+
 ![preview](image.png)
